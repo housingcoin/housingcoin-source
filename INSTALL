@@ -1,0 +1,9 @@
+Building HOUSINGCOIN
+
+See doc/readme-qt.rst for instructions on building HOUSINGCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HOUSINGCOIN.
+
+See doc/build-*.txt for instructions on building housingcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HOUSINGCOIN.
